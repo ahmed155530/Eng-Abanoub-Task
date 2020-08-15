@@ -1,0 +1,9 @@
+E:\Task\Abanoub Task\TechnicalTask\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.deps.json
+E:\Task\Abanoub Task\TechnicalTask\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.dll
+E:\Task\Abanoub Task\TechnicalTask\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.pdb
+E:\Task\Abanoub Task\TechnicalTask\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csprojAssemblyReference.cache
+E:\Task\Abanoub Task\TechnicalTask\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfoInputs.cache
+E:\Task\Abanoub Task\TechnicalTask\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfo.cs
+E:\Task\Abanoub Task\TechnicalTask\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csproj.CoreCompileInputs.cache
+E:\Task\Abanoub Task\TechnicalTask\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.dll
+E:\Task\Abanoub Task\TechnicalTask\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.pdb

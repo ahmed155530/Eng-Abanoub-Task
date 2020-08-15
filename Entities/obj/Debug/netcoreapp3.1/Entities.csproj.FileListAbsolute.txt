@@ -1,0 +1,12 @@
+E:\Task\Abanoub Task\TechnicalTask\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+E:\Task\Abanoub Task\TechnicalTask\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Task\Abanoub Task\TechnicalTask\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+E:\Task\Abanoub Task\TechnicalTask\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+E:\Task\Abanoub Task\TechnicalTask\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+E:\Task\Abanoub Task\TechnicalTask\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
+E:\Task\Abanoub Task\TechnicalTask\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Task\Abanoub Task\TechnicalTask\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+E:\Task\Abanoub Task\TechnicalTask\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+E:\Task\Abanoub Task\TechnicalTask\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+E:\Task\Abanoub Task\TechnicalTask\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache
+E:\Task\Abanoub Task\TechnicalTask\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache

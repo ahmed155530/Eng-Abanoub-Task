@@ -1,0 +1,8 @@
+E:\Task\Abanoub Task\TechnicalTask\DTOs\bin\Debug\netcoreapp3.1\DTOs.deps.json
+E:\Task\Abanoub Task\TechnicalTask\DTOs\bin\Debug\netcoreapp3.1\DTOs.dll
+E:\Task\Abanoub Task\TechnicalTask\DTOs\bin\Debug\netcoreapp3.1\DTOs.pdb
+E:\Task\Abanoub Task\TechnicalTask\DTOs\obj\Debug\netcoreapp3.1\DTOs.AssemblyInfoInputs.cache
+E:\Task\Abanoub Task\TechnicalTask\DTOs\obj\Debug\netcoreapp3.1\DTOs.AssemblyInfo.cs
+E:\Task\Abanoub Task\TechnicalTask\DTOs\obj\Debug\netcoreapp3.1\DTOs.csproj.CoreCompileInputs.cache
+E:\Task\Abanoub Task\TechnicalTask\DTOs\obj\Debug\netcoreapp3.1\DTOs.dll
+E:\Task\Abanoub Task\TechnicalTask\DTOs\obj\Debug\netcoreapp3.1\DTOs.pdb

@@ -1,0 +1,48 @@
+<mat-card style="width:300px;  display: flexbox; align-items: center;">
+  <mat-card-title>Register</mat-card-title>
+  <mat-card-content>
+    <form #form id="form" (ngSubmit)="submit()">
+      <p>
+        <mat-form-field>
+          <input type="text" matInput placeholder="first name" formControlName="firstname">
+        </mat-form-field>
+      </p>
+      <p>
+        <mat-form-field>
+          <input type="text" matInput placeholder="last name" formControlName="lastname">
+        </mat-form-field>
+      </p>
+      <p>
+        <mat-form-field>
+          <input type="text" matInput placeholder="Username" formControlName="username">
+        </mat-form-field>
+      </p>
+
+      <p>
+        <mat-form-field>
+          <input type="password" matInput placeholder="Password" formControlName="password">
+        </mat-form-field>
+      </p>
+      <p>
+        <mat-form-field>
+          <input type="password" matInput placeholder="confirm password" formControlName="confirmpassword">
+        </mat-form-field>
+      </p>
+
+      <p *ngIf="error" class="error">
+        {{ error }}
+      </p>
+      <div class="row">
+        <div class="col-6">
+          <div class="button">
+            <button style="background-color: blue; color: white;" type="submit" mat-flat-button>Register</button>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-6">
+          <a style="padding-top: 20px;" routerLink="/signin">Login</a>
+        </div>
+      </div>
+    </form>
+  </mat-card-content>
+</mat-card>
+

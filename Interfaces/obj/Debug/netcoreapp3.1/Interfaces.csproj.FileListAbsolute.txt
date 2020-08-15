@@ -1,0 +1,15 @@
+E:\Task\Abanoub Task\TechnicalTask\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+E:\Task\Abanoub Task\TechnicalTask\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+E:\Task\Abanoub Task\TechnicalTask\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+E:\Task\Abanoub Task\TechnicalTask\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+E:\Task\Abanoub Task\TechnicalTask\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+E:\Task\Abanoub Task\TechnicalTask\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+E:\Task\Abanoub Task\TechnicalTask\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+E:\Task\Abanoub Task\TechnicalTask\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+E:\Task\Abanoub Task\TechnicalTask\Interfaces\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Task\Abanoub Task\TechnicalTask\Interfaces\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Task\Abanoub Task\TechnicalTask\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+E:\Task\Abanoub Task\TechnicalTask\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CopyComplete
+E:\Task\Abanoub Task\TechnicalTask\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+E:\Task\Abanoub Task\TechnicalTask\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+E:\Task\Abanoub Task\TechnicalTask\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
